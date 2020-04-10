@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/time-conversion/problem
+
 n= list(map(str,input().split(':')))
 def timeConversion(n):
     if 'AM' in n[2]:
