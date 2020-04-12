@@ -1,7 +1,6 @@
 #https://www.hackerrank.com/challenges/time-conversion/problem
-
-n= list(map(str,input().split(':')))
 def timeConversion(n):
+    n=list(map(str,n.split(':')))
     if 'AM' in n[2]:
         n[2]=n[2].strip('AM')
         n=[int(i) for i in n]
@@ -22,5 +21,3 @@ def timeConversion(n):
             n[i]=str(n[i])
     v=":".join(n)
     return(v)
-x=timeConversion(n)
-print(x)
