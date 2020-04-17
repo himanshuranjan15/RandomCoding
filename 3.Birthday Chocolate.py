@@ -5,5 +5,5 @@ def birthday(s, d, m):
         for j in range(m):
             D=D+s[i+j]
         if D==d:
-            ccount=ccount+1
+            count=count+1
     return(candles)
