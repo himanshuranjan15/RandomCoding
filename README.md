@@ -12,3 +12,5 @@
 6.https://www.hackerrank.com/challenges/happy-ladybugs/problem
 
 7.https://www.hackerrank.com/challenges/manasa-and-stones/problem
+
+8.https://www.hackerrank.com/challenges/cavity-map/problem
