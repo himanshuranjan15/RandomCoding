@@ -14,3 +14,5 @@
 7.https://www.hackerrank.com/challenges/manasa-and-stones/problem
 
 8.https://www.hackerrank.com/challenges/cavity-map/problem
+
+9.https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
