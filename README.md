@@ -10,3 +10,5 @@
 5.https://www.hackerrank.com/challenges/drawing-book/problem
 
 6.https://www.hackerrank.com/challenges/happy-ladybugs/problem
+
+7.https://www.hackerrank.com/challenges/manasa-and-stones/problem
