@@ -16,3 +16,5 @@
 8.https://www.hackerrank.com/challenges/cavity-map/problem
 
 9.https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+
+10.https://www.hackerrank.com/challenges/jim-and-the-orders/problem
